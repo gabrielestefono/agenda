@@ -106,6 +106,10 @@
     margin: 0 auto;
 }
 
+.delete-form{
+    display: inline-block;
+}
+
 /* Mobile */
 
 @media screen and (max-width: 480px){
