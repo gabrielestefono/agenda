@@ -66,3 +66,42 @@
     margin: 0 auto;
     margin-top: 30px;
 }
+
+/* Contatos Individuais*/
+#view-contact-container{
+    width: 500px;
+    margin: 0 auto;
+}
+
+.bold{
+    font-weight: bold;
+}
+
+#back-link-container{
+    display: block;
+    width: 500px;
+    margin: 30px auto 0;
+}
+
+#back-link{
+    border: 1px solid #007bff;
+    color: #007bff;
+    border-radius: 4px;
+    padding: 5px;
+    text-decoration: none;
+}
+
+#back-link:hover{
+    text-decoration: none;
+}
+
+.btn{
+    margin-top: 1.5rem;
+}
+
+/* CREATE */
+
+#create-form, #edit-form{
+    width: 500px;
+    margin: 0 auto;
+}
