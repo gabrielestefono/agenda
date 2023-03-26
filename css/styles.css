@@ -105,3 +105,11 @@
     width: 500px;
     margin: 0 auto;
 }
+
+/* Mobile */
+
+@media screen and (max-width: 480px){
+    #homelink{
+        display: none;
+    }
+}
